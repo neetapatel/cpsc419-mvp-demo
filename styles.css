@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+/* .floor-drawing {
+    width: 100%;
+    background-repeat: no-repeat;
+} */
+/* 
+div {
+    width: 100%;
+} */
+img[usemap] {
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.right-info-panel {
+    background-color: burlywood;
+    width: 25vw;
+    height: auto;
+    display: inline-block;
+}
